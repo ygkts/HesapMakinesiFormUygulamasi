@@ -1,0 +1,9 @@
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u3_HesapMakineDatagrideYazma\u3_HesapMakineDatagrideYazma\bin\Debug\u3_HesapMakineDatagrideYazma.exe.config
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u3_HesapMakineDatagrideYazma\u3_HesapMakineDatagrideYazma\bin\Debug\u3_HesapMakineDatagrideYazma.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u3_HesapMakineDatagrideYazma\u3_HesapMakineDatagrideYazma\bin\Debug\u3_HesapMakineDatagrideYazma.pdb
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u3_HesapMakineDatagrideYazma\u3_HesapMakineDatagrideYazma\obj\Debug\u3_HesapMakineDatagrideYazma.csprojResolveAssemblyReference.cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u3_HesapMakineDatagrideYazma\u3_HesapMakineDatagrideYazma\obj\Debug\u3_HesapMakineDatagrideYazma.Form1.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u3_HesapMakineDatagrideYazma\u3_HesapMakineDatagrideYazma\obj\Debug\u3_HesapMakineDatagrideYazma.Properties.Resources.resources
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u3_HesapMakineDatagrideYazma\u3_HesapMakineDatagrideYazma\obj\Debug\u3_HesapMakineDatagrideYazma.csproj.GenerateResource.Cache
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u3_HesapMakineDatagrideYazma\u3_HesapMakineDatagrideYazma\obj\Debug\u3_HesapMakineDatagrideYazma.exe
+C:\Users\ygkts\Desktop\YGKTS\KURS_PROJELER\Hafta8\Kurs_7Ocak2018\u3_HesapMakineDatagrideYazma\u3_HesapMakineDatagrideYazma\obj\Debug\u3_HesapMakineDatagrideYazma.pdb
